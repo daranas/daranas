@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am a Full Stack Developer with over 8 years of experience, for a portfolio please visit my website at [a link](https://darana.id)
+**I am a Full Stack Developer with over 8 years of experience, for a portfolio please visit my website at [https://darana.id](https://darana.id)
 <!--
 **daranas/daranas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
